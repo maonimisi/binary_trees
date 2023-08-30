@@ -3,6 +3,7 @@
 /**
  * binary_tree_preorder - preorder traversal
  * @tree: pointer to the root node of the tree
+ * @func: Pointer to a function to call each node
  * Return: void
 **/
 
